@@ -1,0 +1,110 @@
+
+/*water-section*/
+.water-section{
+	padding: 50px 0 0;
+	margin-top: 6%;
+	min-height: 80vh;
+	margin-bottom: 20px;
+}
+.water-section .water-img{
+	flex: 0 0 40%;
+	max-width: 40%;
+	padding: 0 15px;
+}
+.water-section .water-img .img-box{
+	padding: 15px;
+	border-radius: 5px;
+}
+.water-section .water-img .img-box img{
+	width: 100%;
+	border: 10px solid transparent;
+	border-radius: 5px;
+}
+.water-section .water-info{
+	flex: 0 0 60%;
+	max-width: 60%;
+	padding: 0 15px;
+}
+.water-section .water-info p{
+	font-size: 16px;
+	line-height: 26px;
+	margin-bottom: 15px;
+	color: var(--text-black-600);
+}
+.water-section .water-info span{
+	font-weight: 600;
+}
+
+/*construction-section*/
+
+.construction-section{
+	padding: 50px 0 0;
+	margin-top: 6%;
+	min-height: 80vh;
+	margin-bottom: 20px;
+}
+.construction-section .construction-img{
+	flex: 0 0 40%;
+	max-width: 40%;
+	padding: 0 15px;
+}
+.construction-section .construction-img .img-box{
+	padding: 15px;
+	border-radius: 5px;
+}
+.construction-section .construction-img .img-box img{
+	width: 100%;
+	border: 10px solid transparent;
+	border-radius: 5px;
+}
+.construction-section .construction-info{
+	flex: 0 0 60%;
+	max-width: 60%;
+	padding: 0 15px;
+}
+.construction-section .construction-info p{
+	font-size: 16px;
+	line-height: 26px;
+	margin-bottom: 15px;
+	color: var(--text-black-600);
+}
+.construction-section .construction-info span{
+	font-weight: 600;
+}
+
+/*rental section*/
+
+.rental-section{
+	padding: 50px 0 0;
+	margin-top: 6%;
+	min-height: 80vh;
+	margin-bottom: 20px;
+}
+.rental-section .rental-img{
+	flex: 0 0 40%;
+	max-width: 40%;
+	padding: 0 15px;
+}
+.rental-section .rental-img .img-box{
+	padding: 15px;
+	border-radius: 5px;
+}
+.rental-section .rental-img .img-box img{
+	width: 100%;
+	border: 10px solid transparent;
+	border-radius: 5px;
+}
+.rental-section .rental-info{
+	flex: 0 0 60%;
+	max-width: 60%;
+	padding: 0 15px;
+}
+.rental-section .rental-info p{
+	font-size: 16px;
+	line-height: 26px;
+	margin-bottom: 15px;
+	color: var(--text-black-600);
+}
+.rental-section .rental-info span{
+	font-weight: 600;
+}
